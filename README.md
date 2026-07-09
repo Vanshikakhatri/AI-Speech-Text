@@ -74,3 +74,16 @@ ollama pull llama3.2:3b
 open terminal
 git clone https://github.com/Vanshikakhatri/AI-Speech-Text.git
 cd AI-Speech-Text
+## Backend
+
+### Pull the pre-built Docker image
+
+```bash
+docker pull vanshikakhatri20/speech-backend:latest
+```
+
+### Run the backend
+
+```bash
+docker run --rm -p 8000:8000 vanshikakhatri20/speech-backend:latest
+```
