@@ -32,6 +32,9 @@ docker build -t speech-backend .
 docker run --rm -p 8000:8000 speech-backend
 ```
 
+docker pull vanshikakhatri20/speech-backend:latest
+docker run --rm -p 8000:8000 vanshikakhatri20/speech-backend:latest
+
 ## Frontend
 
 ```bash
