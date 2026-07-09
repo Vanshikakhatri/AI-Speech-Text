@@ -1,0 +1,5 @@
+.Trash
+__pycache__
+*.mp3
+*.wav
+.env
