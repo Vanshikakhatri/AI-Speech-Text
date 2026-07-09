@@ -70,3 +70,7 @@ Download the Ollama model:
 
 ```bash
 ollama pull llama3.2:3b
+
+open terminal
+git clone https://github.com/Vanshikakhatri/AI-Speech-Text.git
+cd AI-Speech-Text
