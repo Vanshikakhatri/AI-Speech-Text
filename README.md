@@ -57,3 +57,16 @@ ollama pull llama3.2:3b
 ```
 http://localhost:5173
 ```
+## Prerequisites
+
+Install:
+
+- Git
+- Docker Desktop
+- Node.js
+- Ollama
+
+Download the Ollama model:
+
+```bash
+ollama pull llama3.2:3b
